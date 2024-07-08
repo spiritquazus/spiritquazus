@@ -16,12 +16,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/isaac-kimrw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isaac-kimrw/" height="30" width="40" /></a>
 </p>
 
-<div style="position: relative;">
-    <img src="https://wallpapers.com/images/high/grey-gradient-background-1536-x-3325-zzoerq3oa2s7lv9t.webp" alt="Grey Rectangle" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-    <p style="position: relative; z-index: 1;">
-        Test
-    </p>
-</div>
+| Some content | More content |
+|--------------|--------------|
+| <div style="background-color: #f0f0f0; padding: 10px;">Content with grey background</div> | Other content |
 
 <div style="background-color: gray; padding: 10px;">
 <h3 align="left">Languages and Tools:</h3>
