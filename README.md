@@ -16,22 +16,24 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/isaac-kimrw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isaac-kimrw/" height="30" width="40" /></a>
 </p>
 
-| Some content | More content |
-|--------------|--------------|
-| <div style="background-color: #f0f0f0; padding: 10px;">Content with grey background</div> | Other content |
-
-<div style="background-color: gray; padding: 10px;">
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+| Coding | Other |
+|--------------|--------------|
+| <p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-</a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-</a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+</a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
+</a> | <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+</a>  |
+
+
+
+
+
+
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 </a> 
