@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/isaac-kimrw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isaac-kimrw/" height="30" width="40" /></a>
 </p>
 
-<div style="background-color: white; padding: 10px;">
+<div style="background-color: gray; padding: 10px;">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
