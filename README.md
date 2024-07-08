@@ -17,7 +17,7 @@
 </p>
 
 <div style="position: relative;">
-    <img src="grey_rectangle.png" alt="Grey Rectangle" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    <img src="https://wallpapers.com/images/high/grey-gradient-background-1536-x-3325-zzoerq3oa2s7lv9t.webp" alt="Grey Rectangle" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
     <p style="position: relative; z-index: 1;">
         Test
     </p>
