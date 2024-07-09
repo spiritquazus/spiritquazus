@@ -9,6 +9,8 @@
 
 - 🤝 Looking for collaborators -> **Project psyP**
 
+- 💬 Can speak fluently -> English, Korean, French, Japanese
+
 - 📫 Contact -> **kimisaac010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
