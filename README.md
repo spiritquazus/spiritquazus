@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/isaac-kimrw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isaac-kimrw/" height="30" width="40" /></a>
-<a href="https://codepen.io/Code_Goblin" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1701405088516841472/eq4HCVCf_400x400.png" alt="https://codepen.io/Code_Goblin" height="30" width="40" /></a>
+<a href="https://codepen.io/Code_Goblin" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1701405088516841472/eq4HCVCf_400x400.png" alt="https://codepen.io/Code_Goblin" height="40" width="40" /></a>
 </p>
 
 
@@ -26,7 +26,7 @@
 <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>  
 <a href="https://www.python.org" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-<a href="https://www.mysql.com/" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="mysql" width="40" height="45"/></a> 
+<a href="https://www.mysql.com/" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="mysql" width="40" height="40"/></a> 
 </p>
 
 <h3 align="left">Frameworks:</h3>
