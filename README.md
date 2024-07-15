@@ -34,6 +34,7 @@
 <a href="https://mariadb.org/" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/378837/node.svg" alt="nodejs" width="40" height="40"/></a>  
+<a href="https://threejs.org/" target="blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" alt="threejs" width="40" height="40"/></a>  
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
