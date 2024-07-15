@@ -5,7 +5,7 @@
 
 - ⚙️ WIP -> **Project psyP (game dev), Project HOGA (productivity app)**
 
-- 📖 Studying -> **React, Node.js, Django, C#**
+- 📖 Studying -> **React, Node.js, Django, TypeScript, C#**
 
 - 🤝 Looking for collaborators -> **Project psyP**
 
