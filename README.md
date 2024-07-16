@@ -13,6 +13,11 @@
 
 - 📫 Contact -> **kimisaac010@gmail.com**
 
+- Current Project: HOGA
+
+<a href="https://github.com/user-attachments/assets/7db7f4ef-0a82-449b-8770-80f065fea03d"></a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/isaac-kimrw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isaac-kimrw/" height="30" width="40" /></a>
