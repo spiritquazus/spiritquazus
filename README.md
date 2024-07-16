@@ -46,7 +46,7 @@
 <a href="https://trello.com/platforms" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/475688/trello-color.svg" alt="trello" width="40" height="40"/></a>
 
 
-<br>
+<br/>
 
 <h1 align="center">Current Project: HOGA</h1>
 
@@ -54,16 +54,13 @@
 
 <p>HOGA is a web-based productivity app with several key features such as API integration with popular application such as Spotify, Youtube, LLM (Gemini, ChatGPT...). Its primary purpose is to provide users all the necessary tools to plan and execute sessions, whether work or study-related, all from a single page.</p>
 
-<br>
+<br/>
 
 <h1 align="center">Hobby Project: psychoPhobia</h1>
 
 <img src="./psyPex1.png"></img>
-<br>
+<br/>
 <img src="./psyPex2.png"></img>
 <p>Based on the world of the movie STALKER by Andrei Tarkovsky and the subsequent, world-famous video-game series of the same name by GSC studios, Stalker psychoPhobia is a fan-project entirely made on vanilla JavaScript. I've started this game from scratch in April 2024, back when I just started learning coding. The purpose of this project was for me to practice my first language (JS/HTML/CSS) and get familiar with new concepts by integrating them into this project as I learn them.</p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spiritquazus&show_icons=true&locale=en" alt="spiritquazus" /></p>
+<br/>
 
