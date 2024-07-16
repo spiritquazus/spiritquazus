@@ -15,7 +15,7 @@
 
 - Current Project: HOGA
 
-<a href="./hogaExMinus.png"></a>
+<img src="./hogaExMinus.png"></img>
 
 
 <h3 align="left">Connect with me:</h3>
