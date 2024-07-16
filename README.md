@@ -15,7 +15,7 @@
 
 - Current Project: HOGA
 
-<a href="https://github.com/user-attachments/assets/7db7f4ef-0a82-449b-8770-80f065fea03d"></a>
+<a href="./hogaExMinus.png"></a>
 
 
 <h3 align="left">Connect with me:</h3>
