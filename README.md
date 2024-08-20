@@ -47,6 +47,9 @@
 <a href="https://www.photoshop.com/en" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373968/photoshop.svg" alt="photoshop" width="40" height="40"/></a>
 <a href="https://trello.com/platforms" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/475688/trello-color.svg" alt="trello" width="40" height="40"/></a>
 
+<br/>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/spiritquazus/)
 
 <br/>
 
