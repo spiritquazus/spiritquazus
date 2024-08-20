@@ -50,9 +50,9 @@
 <br/>
 <br/>
 
-<h1 align="center">
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/spiritquazus/)
-</h1>
+
 
 <br/>
 
