@@ -6,6 +6,8 @@
 - 💻 Portfolio (WIP) -> **https://spiritquazus.github.io/Portfolio/portfolio-DXM/static/html/intro.html**
 
 - ⚙️ WIP -> **Project psyP (game dev), Project HOGA (productivity app)**
+  
+- 💼 Working -> **Luxolis**
 
 - 📖 Studying -> **React, Node.js, Django, TypeScript, C#**
 
@@ -33,11 +35,11 @@
 </p>
 
 <h3 align="left">Frameworks:</h3>
-<a href="https://getbootstrap.com" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="bootstrap" width="40" height="40"/></a> 
+<a href="" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="bootstrap" width="40" height="40"/></a> 
 <a href="https://mariadb.org/" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/378837/node.svg" alt="nodejs" width="40" height="40"/></a>  
-<a href="https://threejs.org/" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="threejs" width="40" height="40"/></a>  
+<a href="https://getbootstrap.com" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="threejs" width="40" height="40"/></a>  
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
@@ -50,8 +52,6 @@
 <br/>
 <br/>
 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/spiritquazus/)
 
 
 <br/>
