@@ -33,11 +33,11 @@
 </p>
 
 <h3 align="left">Frameworks:</h3>
-<a href="https://getbootstrap.com" target="blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="40" height="40"/></a> 
+<a href="https://getbootstrap.com" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="bootstrap" width="40" height="40"/></a> 
 <a href="https://mariadb.org/" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/378837/node.svg" alt="nodejs" width="40" height="40"/></a>  
-<a href="https://threejs.org/" target="blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" alt="threejs" width="40" height="40"/></a>  
+<a href="https://threejs.org/" target="blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="threejs" width="40" height="40"/></a>  
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
