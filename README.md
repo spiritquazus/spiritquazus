@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spiritquazus&label=Profile%20views&color=0e75b6&style=flat" alt="spiritquazus" /> </p>
 
-- 💻 Portfolio -> **dxm-dev.com**
+- 💻 Portfolio -> **[dxm-dev.com](https://www.dxm-dev.com/)**
 
 - ⚙️ WIP -> **Project psyP (game dev), Project HOGA (productivity app)**
   
