@@ -7,11 +7,9 @@
 
 - ⚙️ WIP -> **Project psyP (game dev), Project HOGA (productivity app)**
   
-- 💼 Working -> **Luxolis**
+- 💼 Working -> **LemonVelvet**
 
-- 📖 Studying -> **Tensor, PyTorch, C#, Unity**
-
-- 🤝 Looking for collaborators -> **Project psyP**
+- 📖 Studying -> **Supabase, C#, Unity**
 
 - 💬 Can speak fluently -> English, Korean, French, Japanese
 
